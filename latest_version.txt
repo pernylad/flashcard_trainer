@@ -1,2 +1,2 @@
-1.2.1
-https://github.com/pernylad/flashcard_trainer/releases/download/v1.2.1/Flashcard_trainer.exe
+1.3
+https://github.com/pernylad/flashcard_trainer/releases/download/v1.3/Flashcard_trainerSetup.exe
